@@ -1,2 +1,4 @@
 hi there
 i am new to Git!
+--
+i changed it by myself
